@@ -67,8 +67,6 @@ foreach ($jsonDirStructure as $jsonFolder) {
 	}
 }
 
-print_r($jsonArr);
-
 if (!file_put_contents('data.json', json_encode($jsonArr))) {
 	echo 'Something went wrong writing to file';
 }
