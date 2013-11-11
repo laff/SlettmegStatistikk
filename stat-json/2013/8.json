@@ -1,0 +1,217 @@
+{
+  "total": 498,
+  "general": {
+    "difference": 38.72,
+    "new_website": {
+      "website": "gulindex",
+      "count": 3
+    },
+    "official": 21
+  },
+  "sexes": {
+    "Mann": 167,
+    "Kvinne": 294,
+    "total": 461
+  },
+  "ages": {
+    "Under 12": 3,
+    "12 til 18": 31,
+    "18 til 25": 34,
+    "26 til 30": 16,
+    "31 til 35": 9,
+    "36 til 40": 13,
+    "41 til 45": 10,
+    "46 til 50": 6,
+    "51 til 55": 4,
+    "56 til 60": 5,
+    "61 til 65": 3,
+    "66 til 70": 6,
+    "71 til 75": 8,
+    "Over 75": 1,
+    "total": 149
+  },
+  "counties": {
+    "Østfold": 8,
+    "Akershus": 11,
+    "Oslo": 22,
+    "Oppland": 6,
+    "Hedmark": 1,
+    "Buskerud": 9,
+    "Vestfold": 6,
+    "Telemark": 1,
+    "Aust Agder": 4,
+    "Vest Agder": 6,
+    "Rogaland": 10,
+    "Hordaland": 23,
+    "Sogn og Fjordane": 1,
+    "Møre og Romsdal": 5,
+    "Sør-Trøndelag ": 9,
+    "Nord-Trøndelag": 4,
+    "Nordland": 3,
+    "Troms": 6,
+    "Finnmark": 3,
+    "Utlandet": 0,
+    "total": 138
+  },
+  "channels": {
+    "email": 368,
+    "phone": 129,
+    "social": 1,
+    "total": 498
+  },
+  "time": {
+    "hours": {
+      "0": 2,
+      "1": 4,
+      "2": 2,
+      "3": 2,
+      "4": 1,
+      "5": 5,
+      "6": 4,
+      "7": 16,
+      "8": 28,
+      "9": 19,
+      "10": 70,
+      "11": 55,
+      "12": 49,
+      "13": 48,
+      "14": 37,
+      "15": 26,
+      "16": 21,
+      "17": 21,
+      "18": 14,
+      "19": 19,
+      "20": 25,
+      "21": 11,
+      "22": 10,
+      "23": 9
+    },
+    "days": {
+      "Mandag": 74,
+      "Tirsdag": 104,
+      "Onsdag": 80,
+      "Torsdag": 100,
+      "Fredag": 56,
+      "Lørdag": 38,
+      "Søndag": 46
+    }
+  },
+  "categories": {
+    "Krenkelse": {
+      "total": 143,
+      "Bilde/video": 30,
+      "Sjikane/mobbing": 10,
+      "Trusler": 6,
+      "Rasisme": 0,
+      "Ærekrenkelse": 12,
+      "Krenkelse av privatlivet": 1,
+      "Barnepornografi": 0,
+      "Grooming": 0,
+      "Falsk profil/konto": 0,
+      "Hacket profil/konto": 38,
+      "Uriktig informasjon": 2,
+      "Personopplysninger": 11,
+      "ID-tyveri": 3,
+      "Opphavsrett": 4,
+      "Annet": 26,
+      "null": 0
+    },
+    "Uønsket oppføring": {
+      "total": 238,
+      "Nettkataloger": 17,
+      "Skattelister": 5,
+      "Slette profil/konto": 149,
+      "Avdød profil/konto": 24,
+      "Søkemotorer": 12,
+      "Journalistisk innhold": 12,
+      "Selvpublisert innhold": 15,
+      "Generelt": 4,
+      "null": 0
+    },
+    "Brukerstøtte": {
+      "total": 64,
+      "Mistet tilgang til profil/konto": 12,
+      "Uønsket markedsføring/spam": 15,
+      "Svindel": 4,
+      "Annet": 33,
+      "null": 0
+    },
+    "Juridisk": {
+      "total": 4
+    },
+    "Presse/media": {
+      "total": 3
+    },
+    "Tilbakemelding": {
+      "total": 3
+    },
+    "total": 455.0,
+    "null": 43,
+    "Topp 10": {
+      "Slette profil/konto": 149,
+      "Hacket profil/konto": 38,
+      "Annet": 33,
+      "Bilde/video": 30,
+      "Avdød profil/konto": 24,
+      "Nettkataloger": 17,
+      "Selvpublisert innhold": 15,
+      "Uønsket markedsføring/spam": 15,
+      "Journalistisk innhold": 12,
+      "Mistet tilgang til profil/konto": 12
+    }
+  },
+  "harrassers": {
+    "Venn/bekjent": 20,
+    "Privat aktør": 19,
+    "Den krenkede selv": 2,
+    "Eks-kjæreste": 3,
+    "Familie": 4,
+    "total": 48,
+    "null": 95
+  },
+  "websites": {
+    "Andre": 73,
+    "Geni": 2,
+    "Facebook": 146,
+    "Google": 9,
+    "YouTube": 13,
+    "Hotmail/Windows Live": 9,
+    "Nettkataloger": 13,
+    "Skattelister": 5,
+    "Skype": 5,
+    "Instagram": 14,
+    "Søkemotorer": 8,
+    "Blogg.no": 16,
+    "AnonIB": 4,
+    "Blogger/Blogspot": 10,
+    "Pipl": 1,
+    "Presse": 10,
+    "Formspring": 3,
+    "Dating": 59,
+    "Wayn": 1,
+    "Porno": 3,
+    "Twitter": 9
+  },
+  "dating_websites": {
+    "Firstdate": 4,
+    "Zoosk": 18,
+    "Match": 4,
+    "be2.no": 5,
+    "C-date": 1,
+    "Sukker.no": 1,
+    "Twoo": 11,
+    "Netlog": 4
+  },
+  "top_websites": {
+    "Facebook": 146,
+    "Andre": 73,
+    "Dating": 59,
+    "Zoosk": 18,
+    "Blogg.no": 16,
+    "Instagram": 14,
+    "Nettkataloger": 13,
+    "YouTube": 13,
+    "Twoo": 11,
+    "Blogger/Blogspot": 10
+  }
+}

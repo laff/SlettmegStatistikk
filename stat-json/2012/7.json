@@ -1,0 +1,214 @@
+{
+  "total": 254,
+  "general": {
+    "difference": -39.38,
+    "new_website": {
+      "website": "nrk.no",
+      "count": 3
+    },
+    "official": 0
+  },
+  "sexes": {
+    "Mann": 71,
+    "Kvinne": 116,
+    "total": 187
+  },
+  "ages": {
+    "Under 12": 0,
+    "12 til 18": 36,
+    "18 til 25": 21,
+    "26 til 30": 10,
+    "31 til 35": 5,
+    "36 til 40": 8,
+    "41 til 45": 5,
+    "46 til 50": 4,
+    "51 til 55": 9,
+    "56 til 60": 3,
+    "61 til 65": 1,
+    "66 til 70": 0,
+    "71 til 75": 0,
+    "Over 75": 0,
+    "total": 102
+  },
+  "counties": {
+    "Østfold": 5,
+    "Akershus": 9,
+    "Oslo": 15,
+    "Oppland": 6,
+    "Hedmark": 3,
+    "Buskerud": 10,
+    "Vestfold": 1,
+    "Telemark": 4,
+    "Aust Agder": 1,
+    "Vest Agder": 2,
+    "Rogaland": 8,
+    "Hordaland": 6,
+    "Sogn og Fjordane": 2,
+    "Møre og Romsdal": 8,
+    "Sør-Trøndelag ": 8,
+    "Nord-Trøndelag": 0,
+    "Nordland": 12,
+    "Troms": 6,
+    "Finnmark": 1,
+    "Utlandet": 0,
+    "total": 107
+  },
+  "channels": {
+    "email": 249,
+    "phone": 4,
+    "social": 0,
+    "facebook": 1,
+    "total": 254
+  },
+  "time": {
+    "hours": {
+      "0": 6,
+      "1": 6,
+      "2": 3,
+      "3": 4,
+      "4": 1,
+      "5": 2,
+      "6": 2,
+      "7": 7,
+      "8": 14,
+      "9": 17,
+      "10": 15,
+      "11": 13,
+      "12": 23,
+      "13": 15,
+      "14": 12,
+      "15": 10,
+      "16": 9,
+      "17": 14,
+      "18": 14,
+      "19": 17,
+      "20": 17,
+      "21": 13,
+      "22": 11,
+      "23": 9
+    },
+    "days": {
+      "Mandag": 53,
+      "Tirsdag": 41,
+      "Onsdag": 39,
+      "Torsdag": 40,
+      "Fredag": 31,
+      "Lørdag": 22,
+      "Søndag": 28
+    }
+  },
+  "categories": {
+    "Krenkelse": {
+      "total": 55,
+      "Bilde/video": 20,
+      "Sjikane/mobbing": 7,
+      "Trusler": 0,
+      "Rasisme": 0,
+      "Ærekrenkelse": 3,
+      "Krenkelse av privatlivet": 0,
+      "Barnepornografi": 0,
+      "Grooming": 0,
+      "Falsk profil/konto": 12,
+      "Hacket profil/konto": 5,
+      "Uriktig informasjon": 2,
+      "Personopplysninger": 1,
+      "ID-tyveri": 1,
+      "Opphavsrett": 0,
+      "Annet": 1,
+      "Krenkelse av privatlivets fred": 2,
+      "null": 1
+    },
+    "Uønsket oppføring": {
+      "total": 121,
+      "Nettkataloger": 8,
+      "Skattelister": 2,
+      "Slette profil/konto": 69,
+      "Avdød profil/konto": 10,
+      "Søkemotorer": 0,
+      "Journalistisk innhold": 9,
+      "Selvpublisert innhold": 5,
+      "Generelt": 0,
+      "Søkemotor": 16,
+      "null": 2
+    },
+    "Brukerstøtte": {
+      "total": 28,
+      "Mistet tilgang til profil/konto": 4,
+      "Uønsket markedsføring/spam": 5,
+      "Svindel": 1,
+      "Annet": 18,
+      "null": 0
+    },
+    "Juridisk": {
+      "total": null
+    },
+    "Presse/media": {
+      "total": null
+    },
+    "Tilbakemelding": {
+      "total": null
+    },
+    "total": 204.0,
+    "null": 49,
+    "Topp 10": {
+      "Slette profil/konto": 69,
+      "Bilde/video": 20,
+      "Annet": 18,
+      "Søkemotor": 16,
+      "Falsk profil/konto": 12,
+      "Avdød profil/konto": 10,
+      "Journalistisk innhold": 9,
+      "Nettkataloger": 8,
+      "Sjikane/mobbing": 7,
+      "Hacket profil/konto": 5
+    }
+  },
+  "harrassers": {
+    "Venn/bekjent": 7,
+    "Privat aktør": 5,
+    "Den krenkede selv": 3,
+    "Eks-kjæreste": 2,
+    "total": 17,
+    "null": 38
+  },
+  "websites": {
+    "Andre": 33,
+    "Geni": 1,
+    "Porno": 1,
+    "Google": 22,
+    "Facebook": 51,
+    "Twitter": 3,
+    "Hotmail/Windows Live": 8,
+    "Nettkataloger": 4,
+    "Skype": 1,
+    "Home.no": 2,
+    "Blogg.no": 11,
+    "AnonIB": 3,
+    "Blogger/Blogspot": 4,
+    "Presse": 6,
+    "Formspring": 3,
+    "Dating": 20
+  },
+  "dating_websites": {
+    "Andre": 7,
+    "Firstdate": 1,
+    "Match": 2,
+    "Zoosk": 1,
+    "Sukker.no": 1,
+    "Møteplassen": 1,
+    "Twoo": 4,
+    "Netlog": 1
+  },
+  "top_websites": {
+    "Facebook": 51,
+    "Google": 22,
+    "Dating": 20,
+    "Blogg.no": 11,
+    "Hotmail/Windows Live": 8,
+    "Andre": 7,
+    "Presse": 6,
+    "Blogger/Blogspot": 4,
+    "Nettkataloger": 4,
+    "Twoo": 4
+  }
+}
