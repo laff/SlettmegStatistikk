@@ -37,7 +37,7 @@ function createChartDrag(folderFiles) {
 		animationCallback: function(x, y)
 		{
 			var index = this.stepRatios.indexOf(x),
-				folderFile = folderFiles[index];
+				folderFile = folderFiles[index],
 				year = folderFiles[index][0],
 				// Get month from filename "XX.json"
 				month = monthArr[folderFiles[index][1].substr(0, folderFiles[index][1].indexOf('.'))];
